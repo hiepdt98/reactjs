@@ -1,0 +1,10 @@
+{
+  "BASE_URL": "http://27.72.88.246:8010/",
+  "API_TIMEOUT": 30000,
+  "DEFAULT_LOCALE": "vi",
+  "LOCALES": ["vi", "en"],
+  "LOCALE_MAP": {
+    "vi": "vi_VN",
+    "en": "en_US"
+  }
+}

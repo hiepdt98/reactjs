@@ -1,0 +1,92 @@
+.home-page {
+
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+
+  .modal-footer {
+    margin: -5px;
+  }
+  input.form-control {
+    margin-bottom: 9px;
+  }
+  .model-header h4 {
+    font-size: 25px;
+  }
+  i.fas.fa-feather-alt {
+    font-size: 29px;
+    color: green;
+    margin-right: 7px;
+  }
+  .modal-content {
+    border-radius: 10px;
+    padding: 13px 5px;
+    border: 1px solid green;
+  }
+  .project-title h2 {
+    margin-left: 25px;
+    margin-top: 3px;
+    color: #251a1a;
+  }
+  nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    margin-bottom: 86px;
+    border-bottom: 1px solid green;
+    padding: 20px 0px 20px 0px;
+  }
+  a.fas.fa-info-circle {
+    color: #32929c;
+    margin-left: 179px;
+    cursor: pointer;
+  }
+  .project-list ul li {
+    padding: 12px 1px;
+    border-bottom: 1px solid lightpink;
+  }
+  .list a {
+    font-size: 18px;
+    color: green;
+    text-decoration: none;
+  }
+  a.fas.fa-trash-alt {
+    margin-left: 160px;
+    color: #e43030;
+    cursor: pointer;
+  }
+  a.fas.fa-plus {
+    position: absolute;
+    top: 18px;
+    right: 20px;
+    color: #32929c;
+    font-size: 24px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  i.fas.fa-tasks {
+    position: absolute;
+    top: 19px;
+    left: 10px;
+    font-size: 22px;
+    color: green;
+  }
+  .project-list {
+    margin-top: 20px;
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+  .project-title {
+    padding: 13px;
+    position: relative;
+    box-shadow: 2px 1px 6px;
+  }
+  .homepage {
+    margin: 0px;
+    padding: 0px;
+  }
+  .col-4.left-bar {
+    border: 1px solid gren;
+    border-radius: 10px;
+    border: 2px solid green;
+    min-height: 1000px;
+    padding: 30px 20px;
+  }
+}
+
